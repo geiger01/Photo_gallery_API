@@ -1,4 +1,5 @@
 # Photo_gallery_API
+Live Site: https://boring-swartz-2cb875.netlify.app/
 A website where you can browse through images and search for images.
 
 Created with Javascript(Async,Await), html, css and the Pexels API to make a gallery of photos which you can choose which images you want,
